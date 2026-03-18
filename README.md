@@ -27,7 +27,7 @@ A digital asset trading platform for fractional ownership and revenue distributi
 - ledger as financial source of truth  
 - idempotent payment and settlement flows  
 
-👉 [View system design](https://github.com/bear0714/yq-music-asset-platform)
+👉 <a href="https://github.com/bear0714/yq-music-asset-platform" target="_blank">View system design</a>
 
 ---
 
