@@ -27,7 +27,7 @@ A digital asset trading platform for fractional ownership and revenue distributi
 - ledger as financial source of truth  
 - idempotent payment and settlement flows  
 
-👉 *(Detailed system design coming soon)*
+👉 View system design: https://github.com/bear0714/yq-music-asset-platform
 
 ---
 
@@ -70,8 +70,3 @@ Java · Spring Boot · ActiveMQ/JMS · Kafka · MySQL · MongoDB · AWS · Strip
 Earlier experience: C#, C++  
 
 ---
-
-## Links
-
-- GitHub: https://github.com/bear0714
-- LinkedIn: *(add later)*
