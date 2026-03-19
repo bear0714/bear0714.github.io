@@ -1,8 +1,8 @@
 # Thomas Tsang Chan
 
-Software Architect focused on building **financial-grade backend systems**, distributed platforms, and event-driven architectures.
+Software Architect building **high-reliability backend systems and distributed platforms**.
 
-I design systems with strong guarantees on **correctness, consistency, and scalability**, especially under real-world conditions such as concurrency, retries, and partial failures.
+Focused on **correctness and deterministic behavior** under real-world conditions — including concurrency, retries, and partial failures.
 
 ---
 
